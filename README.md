@@ -6,8 +6,8 @@ At present, we only released the data of the network part mentioned in paper, an
 
 TrafficAccident-net (Part TAD) can be seen in Baidu Netdisk.
 
-Link: https://pan.baidu.com/s/1t_uWxcMNpWcEG9m6P2kT5w
-Code: 1d6g
+Link: https://pan.baidu.com/s/1X8xRJWZ5izXuyUgGbGppjw
+Code: gi9f
 
 
 
