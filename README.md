@@ -2,8 +2,5 @@
 
 We proposed a large-scale traffic accidents dataset from surveillance perspective.
 
-For the sake of data security, we are blurring sensitive text in image data in batches.
-At present, We only released the data of the network part mentioned in paper, and other data will be uploaded gradually.
-
 The released dataset is hosted on our team's GitHub organization account. Data download location is available at the following link: https://github.com/UnicomAI/UnicomBenchmark/tree/main/TADBench
 
